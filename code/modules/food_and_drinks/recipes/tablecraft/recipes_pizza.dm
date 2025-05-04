@@ -15,7 +15,7 @@
 	)
 	result = /obj/item/food/pizza/margherita/raw
 
-/datum/crafting_recipe/food/meatpizza
+/datum/crafting_recipe/food/pizza/meat
 	reqs = list(
 		/obj/item/food/flatdough = 1,
 		/obj/item/food/meat/rawcutlet = 4,
